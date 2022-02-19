@@ -1,4 +1,5 @@
 name: Chang
 age: 20
 gender: Male
+hobbies: [comics, games, programming, movies]
 active: true
